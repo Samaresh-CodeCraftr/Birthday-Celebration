@@ -18,4 +18,4 @@ This is a simple HTML and CSS-based birthday card for Sango. It features a visua
 
 ## Screenshots
 
-
+![Image](https://github.com/user-attachments/assets/d80d120d-561c-41a6-8642-d98e1bd80d77)
